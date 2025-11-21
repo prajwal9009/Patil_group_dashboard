@@ -62,32 +62,6 @@ export default function CapexDashboard() {
   }, [currentData]);
 
   /* -------------------------------------------------------------
-     Progress Estimation (uses completion_target)
-  ------------------------------------------------------------- */
-  function estimateProgress(completion_target) {
-    if (!completion_target) return 0;
-    const t = completion_target.toLowerCase();
-    if (t.includes("done") || t.includes("tbd")) return 100;
-
-    const months = {
-      jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6,
-      jul: 7, aug: 8, sep: 9, oct: 10, nov: 11, dec: 12,
-    };
-
-    const m = completion_target.match(/(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)/i);
-    if (!m) return 30;
-
-    const monthIdx = months[m[1].toLowerCase()];
-    const now = new Date();
-
-    if (monthIdx === now.getMonth() + 1) return 60;
-    if (monthIdx === now.getMonth() + 2) return 40;
-    if (monthIdx < now.getMonth() + 1) return 80;
-
-    return 20;
-  }
-
-  /* -------------------------------------------------------------
      Filtered view
   ------------------------------------------------------------- */
   const filtered = useMemo(() => {
