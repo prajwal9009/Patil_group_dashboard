@@ -1,0 +1,1675 @@
+{
+   "Summary":[
+      {
+         "report_title":"Production and Financial Metrics",
+         "fiscal_year":"FY 25-26",
+         "kra_items":[
+            {
+               "serial_number":1,
+               "description":"Production (in MT)",
+               "unit":"MT",
+               "details":[
+                  {
+                     "plant":"Bobbili",
+                     "target_fy":22800,
+                     "target_ytd":9675,
+                     "actual_ytd":9717
+                  },
+                  {
+                     "plant":"Bokaro",
+                     "target_fy":14592,
+                     "target_ytd":6192,
+                     "actual_ytd":5925
+                  },
+                  {
+                     "plant":"Roopangarh",
+                     "target_fy":12769,
+                     "target_ytd":5418,
+                     "actual_ytd":5058
+                  },
+                  {
+                     "plant":"All plants Total",
+                     "target_fy":50161,
+                     "target_ytd":21285,
+                     "actual_ytd":20700,
+                     "achieved_percent":"97.25%"
+                  }
+               ]
+            },
+            {
+               "serial_number":2,
+               "description":"Dispatches",
+               "unit":"MT",
+               "details":[
+                  {
+                     "plant":"Bobbili",
+                     "target_fy":22976,
+                     "target_ytd":9573,
+                     "actual_ytd":9171
+                  },
+                  {
+                     "plant":"Bokaro",
+                     "target_fy":14492,
+                     "target_ytd":6038,
+                     "actual_ytd":5902
+                  },
+                  {
+                     "plant":"Roopangarh",
+                     "target_fy":12729,
+                     "target_ytd":5304,
+                     "actual_ytd":5019
+                  },
+                  {
+                     "plant":"All plants Total",
+                     "target_fy":50197,
+                     "target_ytd":20915,
+                     "actual_ytd":20092,
+                     "achieved_percent":"96%"
+                  }
+               ]
+            },
+            {
+               "serial_number":3,
+               "description":"Working Capital in cr.",
+               "unit":"Cr",
+               "details":[
+                  {
+                     "plant":"Bobbili",
+                     "target_fy":248.28,
+                     "target_ytd":103.5,
+                     "actual_ytd":111.9
+                  },
+                  {
+                     "plant":"Bokaro",
+                     "target_fy":145.44,
+                     "target_ytd":60.6,
+                     "actual_ytd":63.4
+                  },
+                  {
+                     "plant":"Roopangarh",
+                     "target_fy":151.56,
+                     "target_ytd":63.15,
+                     "actual_ytd":58.99
+                  },
+                  {
+                     "plant":"All plants Total",
+                     "target_fy":545.28,
+                     "target_ytd":227.2,
+                     "actual_ytd":234.3,
+                     "achieved_percent":"103%"
+                  }
+               ]
+            },
+            {
+               "serial_number":4,
+               "description":"Revenue (Cr)",
+               "unit":"Cr",
+               "details":[
+                  {
+                     "plant":"Bobbili",
+                     "target_fy":135,
+                     "target_ytd":56.25,
+                     "actual_ytd":53.87
+                  },
+                  {
+                     "plant":"Bokaro",
+                     "target_fy":85.2,
+                     "target_ytd":35.5,
+                     "actual_ytd":34.93
+                  },
+                  {
+                     "plant":"Roopangarh",
+                     "target_fy":74.76,
+                     "target_ytd":31.15,
+                     "actual_ytd":29.05
+                  },
+                  {
+                     "plant":"All plants Total",
+                     "target_fy":294.96,
+                     "target_ytd":122.9,
+                     "actual_ytd":117.9,
+                     "achieved_percent":"96%"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "Wires_business":{
+      "Productions":[
+         {
+            "name":"Bobbili",
+            "monthly":{
+               "Apr":{
+                  "target":1950,
+                  "actual":1739
+               },
+               "May":{
+                  "target":1950,
+                  "actual":2025
+               },
+               "Jun":{
+                  "target":1875,
+                  "actual":1800
+               },
+               "Jul":{
+                  "target":2025,
+                  "actual":2081
+               },
+               "Aug":{
+                  "target":1875,
+                  "actual":2072
+               },
+               "Sep":{
+                  "target":1990,
+                  "actual":2000
+               }
+            },
+            "total_target":9675,
+            "total_actual":9717,
+            "percent_achieved":100.43
+         },
+         {
+            "name":"Bokaro",
+            "monthly":{
+               "Apr":{
+                  "target":1248,
+                  "actual":1196
+               },
+               "May":{
+                  "target":1248,
+                  "actual":1151
+               },
+               "Jun":{
+                  "target":1200,
+                  "actual":1079
+               },
+               "Jul":{
+                  "target":1296,
+                  "actual":1256
+               },
+               "Aug":{
+                  "target":1200,
+                  "actual":1243
+               },
+               "Sep":{
+                  "target":1290,
+                  "actual":1195
+               }
+            },
+            "total_target":6192,
+            "total_actual":5925,
+            "percent_achieved":95.69
+         },
+         {
+            "name":"Roopangarh",
+            "monthly":{
+               "Apr":{
+                  "target":1092,
+                  "actual":1108
+               },
+               "May":{
+                  "target":1092,
+                  "actual":1010
+               },
+               "Jun":{
+                  "target":1050,
+                  "actual":969
+               },
+               "Jul":{
+                  "target":1134,
+                  "actual":980
+               },
+               "Aug":{
+                  "target":1050,
+                  "actual":991
+               },
+               "Sep":{
+                  "target":1060,
+                  "actual":1100
+               }
+            },
+            "total_target":5418,
+            "total_actual":5058,
+            "percent_achieved":"None"
+         },
+         {
+            "name":"Total",
+            "monthly":{
+               "Apr":{
+                  "target":4290,
+                  "actual":4043
+               },
+               "May":{
+                  "target":4290,
+                  "actual":4186
+               },
+               "Jun":{
+                  "target":4125,
+                  "actual":3848
+               },
+               "Jul":{
+                  "target":4455,
+                  "actual":4317
+               },
+               "Aug":{
+                  "target":4125,
+                  "actual":4306
+               },
+               "Sep":{
+                  "target":4250,
+                  "actual":4380
+               }
+            },
+            "total_target":21285,
+            "total_actual":20700,
+            "percent_achieved":97.25
+         }
+      ],
+      "Dispatches":[
+         {
+            "name":"Bobbili",
+            "monthly":{
+               "Apr":{
+                  "target":653,
+                  "actual":720
+               },
+               "May":{
+                  "target":999,
+                  "actual":716
+               },
+               "Jun":{
+                  "target":1143,
+                  "actual":699
+               },
+               "Jul":{
+                  "target":1205,
+                  "actual":1105
+               },
+               "Aug":{
+                  "target":1156,
+                  "actual":773
+               },
+               "Sep":{
+                  "target":1115,
+                  "actual":800
+               }
+            },
+            "total_target":5156,
+            "total_actual":4013,
+            "percent_achieved":"None"
+         },
+         {
+            "name":"Bokaro",
+            "monthly":{
+               "Apr":{
+                  "target":783,
+                  "actual":130
+               },
+               "May":{
+                  "target":872,
+                  "actual":277
+               },
+               "Jun":{
+                  "target":632,
+                  "actual":577
+               },
+               "Jul":{
+                  "target":871,
+                  "actual":418
+               },
+               "Aug":{
+                  "target":943,
+                  "actual":398
+               },
+               "Sep":{
+                  "target":754,
+                  "actual":423
+               }
+            },
+            "total_target":4101,
+            "total_actual":1800,
+            "percent_achieved":"None"
+         },
+         {
+            "name":"Roopangarh",
+            "monthly":{
+               "Apr":{
+                  "target":827,
+                  "actual":226
+               },
+               "May":{
+                  "target":697,
+                  "actual":147
+               },
+               "Jun":{
+                  "target":645,
+                  "actual":543
+               },
+               "Jul":{
+                  "target":544,
+                  "actual":344
+               },
+               "Aug":{
+                  "target":606,
+                  "actual":462
+               },
+               "Sep":{
+                  "target":720,
+                  "actual":515
+               }
+            },
+            "total_target":3319,
+            "total_actual":1722,
+            "percent_achieved":"None"
+         },
+         {
+            "name":"Total",
+            "monthly":{
+               "Apr":{
+                  "target":2263,
+                  "actual":1076
+               },
+               "May":{
+                  "target":2568,
+                  "actual":1140
+               },
+               "Jun":{
+                  "target":2420,
+                  "actual":1819
+               },
+               "Jul":{
+                  "target":2620,
+                  "actual":1867
+               },
+               "Aug":{
+                  "target":2705,
+                  "actual":1633
+               },
+               "Sep":{
+                  "target":2400,
+                  "actual":1643
+               }
+            },
+            "total_target":12576,
+            "total_actual":7535,
+            "percent_achieved":"None"
+         }
+      ]
+   },
+   "KRA_Bobilli":[
+      {
+         "report_title":"FY 2025-26",
+         "fiscal_year":"2025-26",
+         "kra_items":[
+            {
+               "serial_number":1,
+               "description":"Production (in MT)",
+               "unit":"MT",
+               "annual_target":"22800",
+               "ytd_target":9675,
+               "ytd_actual":9717,
+               "reporting_month_target":1875,
+               "monthly_actuals":{
+                  "Apr":1738,
+                  "May":2025,
+                  "Jun":1801,
+                  "Jul":2081,
+                  "Aug":2072,
+                  "Sep":2000
+               },
+               "remarks":"achieved 100%",
+               "details":"None"
+            },
+            {
+               "serial_number":2,
+               "description":"Rejection(%)",
+               "unit":"%",
+               "annual_target":"1",
+               "ytd_target":1,
+               "ytd_actual":1.3,
+               "reporting_month_target":1,
+               "monthly_actuals":{
+                  "Apr":1.49,
+                  "May":1.22,
+                  "Jun":1.36,
+                  "Jul":1.21,
+                  "Aug":1.22,
+                  "Sep":1.42
+               },
+               "remarks":"Unskilled manpower& design issue of SR",
+               "details":"None"
+            },
+            {
+               "serial_number":3,
+               "description":"Revenue (Cr)",
+               "unit":"Cr",
+               "annual_target":"135",
+               "ytd_target":56.25,
+               "ytd_actual":53.87,
+               "reporting_month_target":11.25,
+               "monthly_actuals":{
+                  "Apr":8.2,
+                  "May":10.2,
+                  "Jun":10.72,
+                  "Jul":13.23,
+                  "Aug":11.52,
+                  "Sep":10.5
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":4,
+               "description":"Cost (per MT)",
+               "unit":"MT",
+               "annual_target":"4772",
+               "ytd_target":4772,
+               "ytd_actual":4772,
+               "reporting_month_target":4772,
+               "monthly_actuals":{
+                  "Apr":5498,
+                  "May":5082,
+                  "Jun":5989,
+                  "Jul":5075,
+                  "Aug":"None",
+                  "Sep":5900
+               },
+               "remarks":"Aug cost sheet not received",
+               "details":"None"
+            },
+            {
+               "serial_number":5,
+               "description":"Working Capital in cr.",
+               "unit":"cr.",
+               "annual_target":"248.28",
+               "ytd_target":103.5,
+               "ytd_actual":111.87,
+               "reporting_month_target":20.69,
+               "monthly_actuals":{
+                  "Apr":23.5,
+                  "May":20.9,
+                  "Jun":20.09,
+                  "Jul":21.46,
+                  "Aug":25.92,
+                  "Sep":24.9
+               },
+               "remarks":"Excess stock of FG due to non lifting of outside customer ordered qty.",
+               "details":"None"
+            },
+            {
+               "serial_number":6,
+               "description":"CME Activity ( %)",
+               "unit":"%",
+               "annual_target":"100%",
+               "ytd_target":"None",
+               "ytd_actual":14,
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":2,
+                  "May":3,
+                  "Jun":3,
+                  "Jul":3,
+                  "Aug":3,
+                  "Sep":3
+               },
+               "remarks":"Details in low light and highlight",
+               "details":"None"
+            },
+            {
+               "serial_number":7,
+               "description":"Safety Incident",
+               "unit":"None",
+               "annual_target":"0",
+               "ytd_target":"None",
+               "ytd_actual":0,
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":0,
+                  "May":0,
+                  "Jun":0,
+                  "Jul":0,
+                  "Aug":0,
+                  "Sep":0
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":8,
+               "description":"Loss (Breakdown in min)",
+               "unit":"min",
+               "annual_target":"0",
+               "ytd_target":0,
+               "ytd_actual":1010,
+               "reporting_month_target":0,
+               "monthly_actuals":{
+                  "Apr":210,
+                  "May":40,
+                  "Jun":0,
+                  "Jul":175,
+                  "Aug":585,
+                  "Sep":0
+               },
+               "remarks":"Details in low light and highlight",
+               "details":"None"
+            },
+            {
+               "serial_number":9,
+               "description":"Dispatches",
+               "unit":"None",
+               "annual_target":"22976",
+               "ytd_target":9573,
+               "ytd_actual":9171,
+               "reporting_month_target":2475,
+               "monthly_actuals":{
+                  "Apr":1373,
+                  "May":1716,
+                  "Jun":1842,
+                  "Jul":2310,
+                  "Aug":1930,
+                  "Sep":2100
+               },
+               "remarks":"achieved 96%, Due to non lifting of order quantity by Customers",
+               "details":"None"
+            },
+            {
+               "serial_number":10,
+               "description":"Customer Complaints",
+               "unit":"None",
+               "annual_target":"0",
+               "ytd_target":"None",
+               "ytd_actual":0,
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":0,
+                  "May":0,
+                  "Jun":0,
+                  "Jul":0,
+                  "Aug":0,
+                  "Sep":1
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":11,
+               "description":"Compliance Adherence (%)",
+               "unit":"%",
+               "annual_target":"100%",
+               "ytd_target":"None",
+               "ytd_actual":100,
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":100,
+                  "May":100,
+                  "Jun":100,
+                  "Jul":100,
+                  "Aug":100,
+                  "Sep":100
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":12,
+               "description":"Power Consumption (unit/MT)",
+               "unit":"unit/MT",
+               "annual_target":"325",
+               "ytd_target":325,
+               "ytd_actual":326,
+               "reporting_month_target":325,
+               "monthly_actuals":{
+                  "Apr":330,
+                  "May":322,
+                  "Jun":325,
+                  "Jul":321,
+                  "Aug":327,
+                  "Sep":325
+               },
+               "remarks":"Because of SR furnace malfunctioning and 15th august power consumed for maintenance",
+               "details":"None"
+            },
+            {
+               "serial_number":13,
+               "description":"New Development",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":"None",
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+
+               },
+               "remarks":"None",
+               "details":[
+                  "1. Die polishing and cutting machine"
+               ]
+            },
+            {
+               "serial_number":14,
+               "description":"Technology Upgradation",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":"None",
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+
+               },
+               "remarks":"None",
+               "details":[
+                  "2.11 KVA transformer to 33 KVA transformer installation work is going on."
+               ]
+            }
+         ]
+      }
+   ],
+   "KRA_Bokaro":[
+      {
+         "report_title":"FY 2025-26",
+         "fiscal_year":"2025-26",
+         "kra_items":[
+            {
+               "serial_number":1,
+               "description":"Production (in MT)",
+               "unit":"MT",
+               "annual_target":"14592",
+               "ytd_target":6192,
+               "ytd_actual":5925,
+               "reporting_month_target":1216,
+               "monthly_actuals":{
+                  "Apr":1196,
+                  "May":1151,
+                  "Jun":1080,
+                  "Jul":1256,
+                  "Aug":1243,
+                  "Sep":1243
+               },
+               "remarks":"Achieved 100%",
+               "details":"None"
+            },
+            {
+               "serial_number":2,
+               "description":"Rejection",
+               "unit":"%",
+               "annual_target":"1.25%",
+               "ytd_target":"1.25%",
+               "ytd_actual":"1.26%",
+               "reporting_month_target":"1.24%",
+               "monthly_actuals":{
+                  "Apr":"1.25%",
+                  "May":"1.27%",
+                  "Jun":"1.26%",
+                  "Jul":"1.20%",
+                  "Aug":"1.21%",
+                  "Sep":"1.20%"
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":3,
+               "description":"Revenue (Cr)",
+               "unit":"Cr",
+               "annual_target":"85.2",
+               "ytd_target":35.5,
+               "ytd_actual":34.93,
+               "reporting_month_target":7.1,
+               "monthly_actuals":{
+                  "Apr":5.47,
+                  "May":6.81,
+                  "Jun":7.13,
+                  "Jul":7.33,
+                  "Aug":8.19,
+                  "Sep":8.01
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":4,
+               "description":"Cost (per MT)",
+               "unit":"None",
+               "annual_target":"4312",
+               "ytd_target":4312,
+               "ytd_actual":4312,
+               "reporting_month_target":4312,
+               "monthly_actuals":{
+                  "Apr":4129,
+                  "May":4375,
+                  "Jun":4582,
+                  "Jul":4486,
+                  "Aug":"None",
+                  "Sep":4476
+               },
+               "remarks":"Aug -25 Cost sheet not yet receive from Accounts.",
+               "details":"None"
+            },
+            {
+               "serial_number":5,
+               "description":"Working Capital in cr.",
+               "unit":"cr.",
+               "annual_target":"145.44",
+               "ytd_target":60.6,
+               "ytd_actual":63.4,
+               "reporting_month_target":12.12,
+               "monthly_actuals":{
+                  "Apr":12.62,
+                  "May":13.93,
+                  "Jun":11.35,
+                  "Jul":12.98,
+                  "Aug":12.52,
+                  "Sep":12.3
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":6,
+               "description":"CME Activity",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":5,
+               "reporting_month_target":3,
+               "monthly_actuals":{
+                  "Apr":2,
+                  "May":2,
+                  "Jun":2,
+                  "Jul":0,
+                  "Aug":"None",
+                  "Sep":"None"
+               },
+               "remarks":"Scrap reduction & bearing consumption reduction",
+               "details":"None"
+            },
+            {
+               "serial_number":7,
+               "description":"Safety Incident",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":0,
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":0,
+                  "May":0,
+                  "Jun":0,
+                  "Jul":0,
+                  "Aug":"None",
+                  "Sep":"None"
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":8,
+               "description":"Loss (Breakdown in min)",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":"None",
+               "reporting_month_target":0,
+               "monthly_actuals":{
+                  "Apr":180,
+                  "May":45,
+                  "Jun":30,
+                  "Jul":20,
+                  "Aug":240,
+                  "Sep":200
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":9,
+               "description":"Dispatches",
+               "unit":"None",
+               "annual_target":"14492",
+               "ytd_target":6038,
+               "ytd_actual":5902,
+               "reporting_month_target":1400,
+               "monthly_actuals":{
+                  "Apr":914,
+                  "May":1150,
+                  "Jun":1209,
+                  "Jul":1288,
+                  "Aug":1341,
+                  "Sep":1243
+               },
+               "remarks":"Achieved 100%",
+               "details":"None"
+            },
+            {
+               "serial_number":10,
+               "description":"Customer Complaints",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":0,
+               "reporting_month_target":0,
+               "monthly_actuals":{
+                  "Apr":0,
+                  "May":0,
+                  "Jun":0,
+                  "Jul":0,
+                  "Aug":"None",
+                  "Sep":"None"
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":11,
+               "description":"Compliance Adherence",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":0,
+               "reporting_month_target":0,
+               "monthly_actuals":{
+                  "Apr":0,
+                  "May":0,
+                  "Jun":0,
+                  "Jul":0,
+                  "Aug":"None",
+                  "Sep":"None"
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":12,
+               "description":"Power Consumption",
+               "unit":"None",
+               "annual_target":"325",
+               "ytd_target":325,
+               "ytd_actual":320,
+               "reporting_month_target":325,
+               "monthly_actuals":{
+                  "Apr":317,
+                  "May":318,
+                  "Jun":325,
+                  "Jul":325,
+                  "Aug":324,
+                  "Sep":325
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":13,
+               "description":"New Development",
+               "unit":"None",
+               "annual_target":"N.A.",
+               "ytd_target":"None",
+               "ytd_actual":"None",
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":"None",
+                  "May":"None",
+                  "Jun":"None",
+                  "Jul":"None",
+                  "Aug":"None",
+                  "Sep":"None"
+               },
+               "remarks":"None",
+               "details":[
+                  "1. SR Take up Modification",
+                  "2. WD Spooling Unit Modification"
+               ]
+            },
+            {
+               "serial_number":14,
+               "description":"Technology Upgradation",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":"None",
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":"None",
+                  "May":"None",
+                  "Jun":"None",
+                  "Jul":"None",
+                  "Aug":"None",
+                  "Sep":"None"
+               },
+               "remarks":"None",
+               "details":[
+                  "3. Bobbin movement through rail trolley Automation completed from WD Machine to Stranding Machine."
+               ]
+            }
+         ]
+      }
+   ],
+   "KRA_Roopangarh":[
+      {
+         "report_title":"FY 2025-26",
+         "fiscal_year":"2025-26",
+         "kra_items":[
+            {
+               "serial_number":1,
+               "description":"Production (in MT)",
+               "unit":"MT",
+               "annual_target":"12769",
+               "ytd_target":5418,
+               "ytd_actual":5058,
+               "reporting_month_target":1064,
+               "monthly_actuals":{
+                  "Apr":1109,
+                  "May":1011,
+                  "Jun":968,
+                  "Jul":980,
+                  "Aug":991,
+                  "Sep":998
+               },
+               "remarks":"achieved 93%",
+               "details":"None"
+            },
+            {
+               "serial_number":2,
+               "description":"Rejection",
+               "unit":"None",
+               "annual_target":"1.25%",
+               "ytd_target":"1.25%",
+               "ytd_actual":1.24,
+               "reporting_month_target":1.25,
+               "monthly_actuals":{
+                  "Apr":1.24,
+                  "May":1.23,
+                  "Jun":1.23,
+                  "Jul":1.25,
+                  "Aug":1.24,
+                  "Sep":"None"
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":3,
+               "description":"Revenue (Cr)",
+               "unit":"Cr",
+               "annual_target":"74.76",
+               "ytd_target":31.15,
+               "ytd_actual":29.05,
+               "reporting_month_target":6.23,
+               "monthly_actuals":{
+                  "Apr":6.48,
+                  "May":5.11,
+                  "Jun":6.94,
+                  "Jul":5.16,
+                  "Aug":5.36,
+                  "Sep":5.57
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":4,
+               "description":"Cost (per MT)",
+               "unit":"None",
+               "annual_target":"4926",
+               "ytd_target":4926,
+               "ytd_actual":4555,
+               "reporting_month_target":4926,
+               "monthly_actuals":{
+                  "Apr":4555,
+                  "May":4850,
+                  "Jun":5289,
+                  "Jul":5804,
+                  "Aug":"None",
+                  "Sep":5890
+               },
+               "remarks":"Aug cost sheet not received from Accounts",
+               "details":"None"
+            },
+            {
+               "serial_number":5,
+               "description":"Working Capital in cr.",
+               "unit":"cr.",
+               "annual_target":"151.56",
+               "ytd_target":63.15,
+               "ytd_actual":58.99,
+               "reporting_month_target":12.63,
+               "monthly_actuals":{
+                  "Apr":15.3,
+                  "May":12,
+                  "Jun":9.21,
+                  "Jul":14.3,
+                  "Aug":8.18,
+                  "Sep":8.12
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":6,
+               "description":"CME Activity",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":5,
+               "reporting_month_target":3,
+               "monthly_actuals":{
+                  "Apr":2,
+                  "May":3,
+                  "Jun":2,
+                  "Jul":3,
+                  "Aug":3,
+                  "Sep":3
+               },
+               "remarks":"1 kaizen , WD-4 installed & cooling tower renovate",
+               "details":"None"
+            },
+            {
+               "serial_number":7,
+               "description":"Safety Incident",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":0,
+               "reporting_month_target":0,
+               "monthly_actuals":{
+                  "Apr":0,
+                  "May":0,
+                  "Jun":0,
+                  "Jul":0,
+                  "Aug":0,
+                  "Sep":2
+               },
+               "remarks":"One near miss & 3 first aid reported",
+               "details":"None"
+            },
+            {
+               "serial_number":8,
+               "description":"Loss (Breakdown in min)",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":319,
+               "reporting_month_target":0,
+               "monthly_actuals":{
+                  "Apr":69,
+                  "May":43,
+                  "Jun":49,
+                  "Jul":48,
+                  "Aug":110,
+                  "Sep":76
+               },
+               "remarks":"Breakdown of 110 hours (STD-2, 3 & WD-1)",
+               "details":"None"
+            },
+            {
+               "serial_number":9,
+               "description":"Dispatches",
+               "unit":"None",
+               "annual_target":"12729",
+               "ytd_target":5304,
+               "ytd_actual":5019,
+               "reporting_month_target":1218,
+               "monthly_actuals":{
+                  "Apr":1053,
+                  "May":843,
+                  "Jun":1188,
+                  "Jul":888,
+                  "Aug":1047,
+                  "Sep":1023
+               },
+               "remarks":"Less dispatch due to lower production & high breakdown",
+               "details":"None"
+            },
+            {
+               "serial_number":10,
+               "description":"Customer Complaints",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":0,
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":0,
+                  "May":0,
+                  "Jun":0,
+                  "Jul":0,
+                  "Aug":0,
+                  "Sep":0
+               },
+               "remarks":"None",
+               "details":"None"
+            },
+            {
+               "serial_number":11,
+               "description":"Compliance Adherence",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":0,
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":0,
+                  "May":0,
+                  "Jun":0,
+                  "Jul":0,
+                  "Aug":0,
+                  "Sep":0
+               },
+               "remarks":"Factory inspection & Stability certification done",
+               "details":"None"
+            },
+            {
+               "serial_number":12,
+               "description":"Power Consumption",
+               "unit":"None",
+               "annual_target":"325",
+               "ytd_target":325,
+               "ytd_actual":334,
+               "reporting_month_target":325,
+               "monthly_actuals":{
+                  "Apr":321,
+                  "May":337,
+                  "Jun":342,
+                  "Jul":346,
+                  "Aug":336,
+                  "Sep":332
+               },
+               "remarks":"Heavy rainfall & Low production due to power cut & breakdown",
+               "details":"None"
+            },
+            {
+               "serial_number":13,
+               "description":"New Development",
+               "unit":"None",
+               "annual_target":"None",
+               "ytd_target":"None",
+               "ytd_actual":"NA",
+               "reporting_month_target":"None",
+               "monthly_actuals":{
+                  "Apr":"NA",
+                  "May":"NA",
+                  "Jun":"None",
+                  "Jul":"None",
+                  "Aug":"None",
+                  "Sep":"NA"
+               },
+               "remarks":"None",
+               "details":"None"
+            }
+         ]
+      }
+   ],
+  "Key_Updates_Bobilli": {
+    "Highlight": {
+      "Production": "Achieved 2072 MT against target of 1875 MT (110.5% achieved)",
+      "Dispatches": "Dispatched 1930 MT against the target of 2343 MT",
+      "CME_Activities": [
+        "Unit I: Indenting unit setup in low productive machine to make highly productive",
+        "To improve productivity by adding sodium based lubricant",
+        "To make an arrangement for easy replacement of pay off guide"
+      ],
+      "Customer_Complaint": "NO",
+      "Technology_Upgradations": "NO new",
+      "Compliance_Adherence": "100% compliance adherence",
+      "Safety": "No incident"
+    },
+    "Lowlight": {
+      "Scrap": "1.22% reached against target of 1.0%. Unskilled manpower and removal of untreated material.",
+      "Dispatch": "Dispatched 1930 MT against the target of 2343 MT (outside customer not lifting material)",
+      "Outside_Party_Not_Lifted": {
+        "Arlan": "100 MT",
+        "Laxmi_Hasanpatti": "107 MT",
+        "Laxmi_Tirupati": "121 MT",
+        "Saidapur": "105 MT",
+        "Balanagar": "84 MT",
+        "Vijayprestress": "72 MT"
+      },
+      "Power_Consumption": "Achieved 328 Unit/MT against target of 325 Unit/MT",
+      "Breakdown": [
+        "Unit-01 Take up no 03 Motor Burnt",
+        "U-1 take-up-3 shaft broken",
+        "U1 - WD/02 Block -07 Drum Worm Shaft Bearing Broken"
+      ]
+    }
+  },
+
+  "Key_Updates_Roopangarh": {
+    "Highlight": {
+      "CME_Activities": "1 kaizen, WD-4 installed & cooling tower renovated",
+      "Rejections": "Scrap 1.25% rejection, Target: 1.24%",
+      "Technology_Upgradations": "NA",
+      "Compliance_Adherence": "Factory inspection & Stability certification done",
+      "New_Product_Development": "NA",
+      "Labor_Welfare": "Labour shed completed with solar mount 150KwP",
+      "Customer_Complaint": "NIL"
+    },
+    "Lowlight": {
+      "Production": "Achieved 991 MT, Target: 1100 MT (90%)",
+      "Dispatch_Internal": "606 MT, Target: 701 MT (86%)",
+      "Dispatch_External": "462 MT, Target: 776 MT (60%)",
+      "Dispatch_Total": "1068 MT, Target: 1447 MT (74%)",
+      "Power_Consumption": "Achieved 336 units against target of 325 units",
+      "Losses": "Breakdown of 110 hours (STD-2, 3 & WD-1)",
+      "Safety": "One near miss & 3 first aid cases reported"
+    }
+  },
+
+  "Key_Updates_Bokaro": {
+    "Highlight": {
+      "Production": "Achieved 1242.558 MT against target of 1200 MT (103.55% achieved)",
+      "CME_Activities": [
+        "In-house making grinder machine",
+        "In-house making ramp in rail line to move the trolley"
+      ],
+      "Technology_Upgradations": "WD Machine spooling unit from manual to pneumatic type (implementation under process, 2nd Sept-25)",
+      "Compliance_Adherence": "100% compliance adherence",
+      "New_Product_Development": "NA",
+      "Power_Consumption": "Achieved 324 units against target of 325 units (100%)",
+      "Safety": "No accident",
+      "Customer_Complaint": "NIL",
+      "Rejections": "Scrap Generation Target: 1.25%, Achieved: 1.21%"
+    },
+    "Lowlight": {
+      "Breakdown": "WD-4 Block No-3 Worm Gear & Shaft damaged for 04:00 hrs",
+      "Dispatch_Internal": "Target: 954 MT – Dispatched: 942.93 MT",
+      "Dispatch_External": "Target: 870 MT – Dispatched: 397.95 MT",
+      "Dispatch_Total": "Target: 1824 MT – Dispatched: 1340.88 MT",
+      "Not_Lifted_Carry_Forward": "483.12 MT not lifted, carried to next month",
+      "Losses": "Power Cut of 09 hrs 10 min from DVC"
+    }
+  },
+   "Tactical_Action_Plan_Bobilli":{
+      "Scrap":"SR furnace design this much scrap continuously generated, need to improve automation for reduction, work under progress",
+      "Dispatch":"Less dispatch because of low production at customer end, explore another customer",
+      "Power consumption":"15th august maintenance work without production and SR temp increase from 315 to 350 degree.",
+      "Breakdown":"/U-1 take-up-3 shaft broken because of manufacturing defect near step ./ U1 - Wd/02 Block -07 Drum Worm Shaft Bearing Broken Because of bearing cage damage because of lubricant burnt now replace with new oil / Unit - 01 Take up no 03 Motor Burnt. Because of over load not functioning properly and motor burn"
+   },
+   "Tactical_Action_Plan_Bokaro":{
+      "Dispatch":"Dispatched Internal Target: 954 MT – Dispatched Qty. 942.93 MT. Dispatched External Target : 870 MT – Dispatched Qty. 397.95 MT. Target: 1824 MT . Dispatched Qty. 1340.88 MT. Balance Qty. 483.12 MT Carry forward to September-2025 as per the out side Customer requirement’s. We will request our Customer to take 100% Inspected Material as per the dispatch plan. So that Dispatch will be carry out as per the Plan.",
+      "Rejection":"With in the Target.",
+      "Losses":"1. Regarding Power Cut from DVC side 09 Hrs. 10Min. Same we are keep in touch with the DVC Chief Engineer to avoid Load Shedding. 2. WD-4 Block No-3 Worm Gear & Shaft damaged breakdown for 04hrs.. To avoid this type of issue we have increase checking frequency with proper monitoring & making new one as a spare."
+   },
+   "Tactical_Action_Plan_Roopangarh":{
+      "Production":"Achieved 991 MT, Target of 1100 MT (90%) Power cut 47 hr & 40 min & breakdown 110 hr",
+      "Action Plan":"New on-roll labours 7 joined (total 33) in Aug & new GOD switch installed/DG Sync busbar connection done",
+      "Dispatch":{
+         "Internal Dispatched Qty":"606 MT, Target: 701 MT (86%) Udavada 80MT not dispatched due to low production",
+         "External Dispatched Qty":"462 MT, Target: 776 MT (60%) Bissau late inspection done & Hanumangarh taken only 50MT due accident at their plant",
+         "Dispatched Qty":"1068 MT, Target: 1447 MT (74%)"
+      },
+      "Action Plan Dispatch":"Already initiated Sholaka-RITES inspection in AUG for SEP dispatch & increase production",
+      "Power Consumption":"Achieved 336 units against target of 325 units Low production due to high power cut & high breakdown",
+      "Action Plan Power Consumption":"VCB, ACB, DG, Transformer servicing planned in Sep-25 & also complaint AVVNL for frequent power cuts.",
+      "Losses":"Breakdown of 110 hours (STD-2, 3 & WD-1) (STD-3 cradle bend, STD-2 bobbin fly & WD-1 worm shaft bearing broken)",
+      "Action Plan Losses":"New cradle manufacturing under process & procure forging shaft 55mm round for spare shaft which can serve all 7 STD m/c",
+      "Safety":"One near miss & 3 first aid reported",
+      "Action Plan Safety":"100% PPE done with EHS audit scheduled"
+   },
+   "Capex_and_Upgradation_Bobilli":[
+      {
+         "report_title":"Capex and Upgradtion",
+         "fiscal_year":"2025",
+         "projects":[
+            {
+               "serial_number":1,
+               "description":"New shed 30M x 12 Mtrs extension work for keeping RM",
+               "completion_target":"Oct-25",
+               "status":"Work started from 28 August",
+               "remarks":"Civil &structural quotation received, comparison sheet done .,design approved,"
+            },
+            {
+               "serial_number":2,
+               "description":"Sleeper laying on road /workers quarter area /new shed extension area",
+               "completion_target":"Sep-25",
+               "status":"Waiting for sleeper, work started by 8th august,",
+               "remarks":"order done"
+            },
+            {
+               "serial_number":3,
+               "description":"Workers quarter tar felting work",
+               "completion_target":"Sep-25",
+               "status":"Works started but stop due to raining",
+               "remarks":"PO done , Material received, service po done"
+            },
+            {
+               "serial_number":4,
+               "description":"Workers quarter window and gate repairing/ replacement work",
+               "completion_target":"Oct-25",
+               "status":"Work started",
+               "remarks":"NFA done , Po done"
+            },
+            {
+               "serial_number":5,
+               "description":"CCTV camera installation",
+               "completion_target":"Sep-25",
+               "status":"done",
+               "remarks":"All done,"
+            },
+            {
+               "serial_number":6,
+               "description":"Water harvesting system development",
+               "completion_target":"30 th Sept",
+               "status":"One Quotation received, waiting for another .",
+               "remarks":"Need architect for system development as per our area"
+            },
+            {
+               "serial_number":8,
+               "description":"11 KVA to 33 KVA work",
+               "completion_target":"31 july 2025/30 sept2025",
+               "status":"No manpower available with vendor ,now started the work",
+               "remarks":"Transmission line & switchyard( both place) structural work completed, switch gear and circuit breaker work is going on,"
+            },
+            {
+               "serial_number":9,
+               "description":"Die cutting and polishing machine",
+               "completion_target":"Sep-25",
+               "status":"Order given",
+               "remarks":"Po done"
+            },
+            {
+               "serial_number":10,
+               "description":"Welding machine",
+               "completion_target":"May 2025/30 sept",
+               "status":"As per Sanjeev sir ,welding strength is similar to electro weld so we are using electro weld",
+               "remarks":"New strecker machine quotation received, but not mention welding strength so for strength checking, asked for sample wire and wire rod"
+            },
+            {
+               "serial_number":11,
+               "description":"NABL lab development",
+               "completion_target":"None",
+               "status":"Till now not known,",
+               "remarks":"Waiting for Group quality head( Mallika sir ) proposal"
+            }
+         ]
+      }
+   ],
+   "Capex_and_Upgradation_Bokaro":[
+      {
+         "report_title":"Capex and Upgradtion",
+         "fiscal_year":"2025",
+         "projects":[
+            {
+               "serial_number":1,
+               "description":"RM Shed Extension",
+               "completion_target":"Oct-15",
+               "status":"P.O. issued",
+               "remarks":"Work under Process."
+            },
+            {
+               "serial_number":2,
+               "description":"Armoured Cable 40 Sq.mm",
+               "completion_target":"None",
+               "status":"Cable Received.",
+               "remarks":"Will install after Rainy Season-Sept-25"
+            },
+            {
+               "serial_number":3,
+               "description":"Accomodation for Staff",
+               "completion_target":"Sep-25",
+               "status":"New Drawing made with Samrat Civil Engr.",
+               "remarks":"Awaited new Quotation."
+            },
+            {
+               "serial_number":4,
+               "description":"Shop Floor Renovation- Civil Work",
+               "completion_target":"Sep-25",
+               "status":"Quotation awaited.",
+               "remarks":"None"
+            },
+            {
+               "serial_number":5,
+               "description":"Mill Scale Storage Tank",
+               "completion_target":"Aug-25",
+               "status":"Completed.",
+               "remarks":"Completed."
+            },
+            {
+               "serial_number":6,
+               "description":"Slab for Water drainage system",
+               "completion_target":"Sep-25",
+               "status":"Quotation awaited.",
+               "remarks":"None"
+            },
+            {
+               "serial_number":7,
+               "description":"Die Polisher separate Room",
+               "completion_target":"Oct-25",
+               "status":"After finalization of M/C then based on that measurent will make Room.",
+               "remarks":"None"
+            },
+            {
+               "serial_number":8,
+               "description":"Renovation of existing F.O.Tank area",
+               "completion_target":"None",
+               "status":"During Staff Accomodation work.",
+               "remarks":"None"
+            },
+            {
+               "serial_number":9,
+               "description":"Wash Room adjacent to Lab",
+               "completion_target":"None",
+               "status":"During Staff Accomodation work.",
+               "remarks":"None"
+            },
+            {
+               "serial_number":10,
+               "description":"Ashoka Tree Plantation",
+               "completion_target":"Jul-25",
+               "status":"50 Nos. Already planted",
+               "remarks":"None"
+            },
+            {
+               "serial_number":11,
+               "description":"DSL Baesd power connection in EOT",
+               "completion_target":"Oct-25",
+               "status":"3 Quotation received",
+               "remarks":"Will Install After shed Extension."
+            },
+            {
+               "serial_number":12,
+               "description":"S R Take up modification",
+               "completion_target":"Aug-25",
+               "status":"1 No Take up modification done.",
+               "remarks":"Completed. Rest 2 Nos we will implement End of Mid of Oct-25."
+            },
+            {
+               "serial_number":13,
+               "description":"WD Spooling - Pneumatic Type",
+               "completion_target":"Aug-25",
+               "status":"1 Nos ready at Mfg. End.",
+               "remarks":"Will received 2nd Week of Aug-25"
+            },
+            {
+               "serial_number":14,
+               "description":"New Transformer Installation / VFD for WD M/C & Motor IE4",
+               "completion_target":"None",
+               "status":"Motor replacement ROI Calculation done but not viable. Now we will make propsal to replace existing OTO Machine by SLM",
+               "remarks":"None"
+            },
+            {
+               "serial_number":15,
+               "description":"AJEX Die Cutting, Polishing & Measuring M/C",
+               "completion_target":"Sep-25",
+               "status":"P.O. issued",
+               "remarks":"None"
+            },
+            {
+               "serial_number":16,
+               "description":"CCTV Installation including TV",
+               "completion_target":"May-25",
+               "status":"Already Installed.",
+               "remarks":"Completed."
+            },
+            {
+               "serial_number":17,
+               "description":"NABL Lab Implementation",
+               "completion_target":"None",
+               "status":"1st phase we will Implement in our Roopangarh Plant then accordingly we will implement in our Plant.",
+               "remarks":"None"
+            },
+            {
+               "serial_number":18,
+               "description":"New DOJO Room construction",
+               "completion_target":"None",
+               "status":"None",
+               "remarks":"None"
+            },
+            {
+               "serial_number":19,
+               "description":"Main Store Cabin renovation with AC",
+               "completion_target":"None",
+               "status":"Quotation received & same put up to SCM for further process.",
+               "remarks":"Will take in process after Completion of Main above priority Work."
+            },
+            {
+               "serial_number":20,
+               "description":"Maintenace Incharge Cabin - Maintenance Workshop",
+               "completion_target":"None",
+               "status":"None",
+               "remarks":"None"
+            },
+            {
+               "serial_number":21,
+               "description":"New Laptop-2",
+               "completion_target":"None",
+               "status":"None",
+               "remarks":"None"
+            },
+            {
+               "serial_number":22,
+               "description":"Industrial Rack for Workesrs",
+               "completion_target":"None",
+               "status":"Will make in house. Same send material requirements Quotation.",
+               "remarks":"Not Required for our Colony Workers. Only ITI + Outsider Workers are required. Same Quotation arranged will send for approval. End of Sept-25."
+            }
+         ]
+      }
+   ],
+   "Capex_and_Upgradation_Roopangarh":[
+      {
+         "report_title":"Capex and Upgradtion",
+         "fiscal_year":"2025",
+         "projects":[
+            {
+               "serial_number":1,
+               "description":"Fork lift Capacity -3.0 Ton Toyota",
+               "completion_target":"25.06.2025",
+               "status":"Diesel forklift RACE rejected. Electric & Diesel comparative send for approval",
+               "remarks":"MATERIAL SHIFTING AND WIRE ROD UNLOADING COSTS 600000 PER YEAR - 360000 (DRIVER + DIESEL)"
+            },
+            {
+               "serial_number":2,
+               "description":"Water Softening Plant - 2200 LPH & Water storage Tank - 100KL",
+               "completion_target":"Discuss with Abhishek",
+               "status":"Rs 10000 for tests charges received as recommended by Abhishek- Solar. Sample sent for testing.",
+               "remarks":"MACHINE WATER AND DRINKING WATER COSTS 50000 PER MONTH"
+            },
+            {
+               "serial_number":3,
+               "description":"Ashoka Plantation & Patil Green Works",
+               "completion_target":"31.07.2025",
+               "status":"50 Ashoka trees, plantation done",
+               "remarks":"PATIL GREENWORKS (CLEANER AIR)"
+            },
+            {
+               "serial_number":4,
+               "description":"Natural Air Ventilator installation",
+               "completion_target":"31.08.2025",
+               "status":"Quotation received- CS/PR/PO under process",
+               "remarks":"FOR AMBIENT AIR AT SHOPFLOOR"
+            },
+            {
+               "serial_number":5,
+               "description":"DSL based power connection in EOT",
+               "completion_target":"31.08.2025",
+               "status":"Quotation received- CS/PR/PO under process",
+               "remarks":"BUSBAR BASED WILL REDUCE BREAKDOWN OF EOT"
+            },
+            {
+               "serial_number":6,
+               "description":"New Washroom & renovation for Staff & Workers",
+               "completion_target":"31.08.2025",
+               "status":"Plumbing items list prepared, quotation under process",
+               "remarks":"FOR HYGIENE PURPOSE"
+            },
+            {
+               "serial_number":7,
+               "description":"DC Fan for all Electrical Panel",
+               "completion_target":"30.07.2025",
+               "status":"Quotation received- CS/PR/PO under process",
+               "remarks":"FOR COOLING INSIDE PANEL"
+            },
+            {
+               "serial_number":8,
+               "description":"Exhaust Fan for Shed",
+               "completion_target":"30.07.2025",
+               "status":"Quotation received- CS/PR/PO under process. Planned after rain",
+               "remarks":"FOR HEAT FLUSHING INSIDE SHED"
+            },
+            {
+               "serial_number":9,
+               "description":"New Lathe Machine-10 ft.",
+               "completion_target":"30.06.2025",
+               "status":"PO done. Inspection done. Waiting for readiness of machine",
+               "remarks":"OUTSIDE WORKSHOP COSTS 30000 PER MONTH"
+            },
+            {
+               "serial_number":10,
+               "description":"S R Pusher Arm",
+               "completion_target":"None",
+               "status":"To visit Jaipur for checking feasiblity.",
+               "remarks":"QUALITY IMPROVEMENT"
+            },
+            {
+               "serial_number":11,
+               "description":"Shop Floor & Building Repair works.",
+               "completion_target":"17.09.2025",
+               "status":"WD-4 installed. Floor drilling work started",
+               "remarks":"SAFETY & HYGIENE"
+            },
+            {
+               "serial_number":12,
+               "description":"SR Take Modification",
+               "completion_target":"None",
+               "status":"Results from Bokaro awaited",
+               "remarks":"AUTOMATION"
+            },
+            {
+               "serial_number":13,
+               "description":"WD Spooling ( Pneumatic Type )",
+               "completion_target":"None",
+               "status":"Results from Bokaro awaited",
+               "remarks":"AUTOMATION"
+            },
+            {
+               "serial_number":14,
+               "description":"NABL certified quality lab (certification, training, equipment temperature monitoring etc)",
+               "completion_target":"None",
+               "status":"Waiting for CHQ to proceed further",
+               "remarks":"QUALITY IMPROVEMENT"
+            },
+            {
+               "serial_number":15,
+               "description":"General maintenance (Good quality spares purchase)",
+               "completion_target":"None",
+               "status":"GOD switch installed. Insulator enquiry raised. Indenting pulley under process. WD-4 installed & cooling tower",
+               "remarks":"REDUCE BREAKDOWN & OEM LEVEL MACHINES"
+            },
+            {
+               "serial_number":16,
+               "description":"CME expenses",
+               "completion_target":"None",
+               "status":"All glass window repaired in shopfloor. Parking area completed. VCB, ACB, Transformer & RTC servicing planned",
+               "remarks":"SHOPFLOOR UPGRADATION WITH SAFETY & HYGENE Sep 25"
+            },
+            {
+               "serial_number":17,
+               "description":"Die shop equipments",
+               "completion_target":"None",
+               "status":"PO done. Inspection & delivery in 15 days",
+               "remarks":"FOR UPGRADATION OF DIE SHOP"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,400 @@
+{
+   "bobbili":[
+      {
+         "serial_number":1,
+         "description":"New shed 30M x 12 Mtrs extension work for keeping RM",
+         "completion_target":"Oct-25",
+         "status_class":"In Progress",
+         "status":"Work started from 28 August",
+         "remarks":"Civil &structural quotation received, comparison sheet done .,design approved,"
+      },
+      {
+         "serial_number":2,
+         "description":"Sleeper laying on road /workers quarter area /new shed extension area",
+         "completion_target":"Sep-25",
+         "status_class":"In Progress",
+         "status":"Waiting for sleeper, work started by 8th august,",
+         "remarks":"order done"
+      },
+      {
+         "serial_number":3,
+         "description":"Workers quarter tar felting work",
+         "completion_target":"Sep-25",
+         "status_class":"In Progress",
+         "status":"Works started but stop due to raining",
+         "remarks":"PO done , Material received, service po done"
+      },
+      {
+         "serial_number":4,
+         "description":"Workers quarter window and gate repairing/ replacement work",
+         "completion_target":"Oct-25",
+         "status_class":"In Progress",
+         "status":"Work started",
+         "remarks":"NFA done , Po done"
+      },
+      {
+         "serial_number":5,
+         "description":"CCTV camera installation",
+         "completion_target":"Sep-25",
+         "status_class":"Done",
+         "status":"done",
+         "remarks":"All done,"
+      },
+      {
+         "serial_number":6,
+         "description":"Water harvesting system development",
+         "completion_target":"30 th Sept",
+         "status_class":"Unknown",
+         "status":"One Quotation received, waiting for another .",
+         "remarks":"Need architect for system development as per our area"
+      },
+      {
+         "serial_number":8,
+         "description":"11 KVA to 33 KVA work",
+         "completion_target":"31 july 2025/30 sept2025",
+         "status_class":"In Progress",
+         "status":"No manpower available with vendor ,now started the work",
+         "remarks":"Transmission line & switchyard( both place) structural work completed, switch gear and circuit breaker work is going on,"
+      },
+      {
+         "serial_number":9,
+         "description":"Die cutting and polishing machine",
+         "completion_target":"Sep-25",
+         "status_class":"In Progress",
+         "status":"Order given",
+         "remarks":"Po done"
+      },
+      {
+         "serial_number":10,
+         "description":"Welding machine",
+         "completion_target":"May 2025/30 sept",
+         "status_class":"In Progress",
+         "status":"As per Sanjeev sir ,welding strength is similar to electro weld so we are using electro weld",
+         "remarks":"New strecker machine quotation received, but not mention welding strength so for strength checking, asked for sample wire and wire rod"
+      },
+      {
+         "serial_number":11,
+         "description":"NABL lab development",
+         "completion_target":"None",
+         "status_class":"Unknown",
+         "status":"Till now not known,",
+         "remarks":"Waiting for Group quality head( Mallika sir ) proposal"
+      }
+   ],
+   "bokaro":[
+      {
+         "serial_number":1,
+         "description":"RM Shed Extension",
+         "completion_target":"Oct-15",
+         "status_class":"In Progress",
+         "status":"P.O. issued",
+         "remarks":"Work under Process."
+      },
+      {
+         "serial_number":2,
+         "description":"Armoured Cable 40 Sq.mm",
+         "completion_target":"None",
+         "status_class":"On Hold",
+         "status":"Cable Received.",
+         "remarks":"Will install after Rainy Season-Sept-25"
+      },
+      {
+         "serial_number":3,
+         "description":"Accomodation for Staff",
+         "completion_target":"Sep-25",
+         "status_class":"On Hold",
+         "status":"New Drawing made with Samrat Civil Engr.",
+         "remarks":"Awaited new Quotation."
+      },
+      {
+         "serial_number":4,
+         "description":"Shop Floor Renovation- Civil Work",
+         "completion_target":"Sep-25",
+         "status_class":"On Hold",
+         "status":"Quotation awaited.",
+         "remarks":"None"
+      },
+      {
+         "serial_number":5,
+         "description":"Mill Scale Storage Tank",
+         "completion_target":"Aug-25",
+         "status_class":"Done",
+         "status":"Completed.",
+         "remarks":"Completed."
+      },
+      {
+         "serial_number":6,
+         "description":"Slab for Water drainage system",
+         "completion_target":"Sep-25",
+         "status_class":"On Hold",
+         "status":"Quotation awaited.",
+         "remarks":"None"
+      },
+      {
+         "serial_number":7,
+         "description":"Die Polisher separate Room",
+         "completion_target":"Oct-25",
+         "status_class":"In Progress",
+         "status":"After finalization of M/C then based on that measurent will make Room.",
+         "remarks":"None"
+      },
+      {
+         "serial_number":8,
+         "description":"Renovation of existing F.O.Tank area",
+         "completion_target":"None",
+         "status_class":"On Hold",
+         "status":"During Staff Accomodation work.",
+         "remarks":"None"
+      },
+      {
+         "serial_number":9,
+         "description":"Wash Room adjacent to Lab",
+         "completion_target":"None",
+         "status_class":"On Hold",
+         "status":"During Staff Accomodation work.",
+         "remarks":"None"
+      },
+      {
+         "serial_number":10,
+         "description":"Ashoka Tree Plantation",
+         "completion_target":"Jul-25",
+         "status_class":"Done",
+         "status":"50 Nos. Already planted",
+         "remarks":"None"
+      },
+      {
+         "serial_number":11,
+         "description":"DSL Baesd power connection in EOT",
+         "completion_target":"Oct-25",
+         "status_class":"In Progress",
+         "status":"3 Quotation received",
+         "remarks":"Will Install After shed Extension."
+      },
+      {
+         "serial_number":12,
+         "description":"S R Take up modification",
+         "completion_target":"Aug-25",
+         "status_class":"Done",
+         "status":"1 No Take up modification done.",
+         "remarks":"Completed. Rest 2 Nos we will implement End of Mid of Oct-25."
+      },
+      {
+         "serial_number":13,
+         "description":"WD Spooling - Pneumatic Type",
+         "completion_target":"Aug-25",
+         "status_class":"In Progress",
+         "status":"1 Nos ready at Mfg. End.",
+         "remarks":"Will received 2nd Week of Aug-25"
+      },
+      {
+         "serial_number":14,
+         "description":"New Transformer Installation / VFD for WD M/C & Motor IE4",
+         "completion_target":"None",
+         "status_class":"Unknown",
+         "status":"Motor replacement ROI Calculation done but not viable.",
+         "remarks":"Now we will make propsal to replace existing OTO Machine by SLM"
+      },
+      {
+         "serial_number":15,
+         "description":"AJEX Die Cutting, Polishing & Measuring M/C",
+         "completion_target":"Sep-25",
+         "status_class":"In Progress",
+         "status":"P.O. issued",
+         "remarks":"None"
+      },
+      {
+         "serial_number":16,
+         "description":"CCTV Installation including TV",
+         "completion_target":"May-25",
+         "status_class":"Done",
+         "status":"Already Installed.",
+         "remarks":"Completed."
+      },
+      {
+         "serial_number":17,
+         "description":"NABL Lab Implementation",
+         "completion_target":"None",
+         "status_class":"In Progress",
+         "status":"None",
+         "remarks":"1st phase we will Implement in our Roopangarh Plant then accordingly we will implement in our Plant."
+      },
+      {
+         "serial_number":18,
+         "description":"New DOJO Room construction",
+         "completion_target":"None",
+         "status_class":"Unknown",
+         "status":"None",
+         "remarks":"None"
+      },
+      {
+         "serial_number":19,
+         "description":"Main Store Cabin renovation with AC",
+         "completion_target":"None",
+         "status_class":"In Progress",
+         "status":"None",
+         "remarks":"Quotation received & same put up to SCM for further process. Will take in process after Completion of Main above priority Work."
+      },
+      {
+         "serial_number":20,
+         "description":"Maintenace Incharge Cabin - Maintenance Workshop",
+         "completion_target":"None",
+         "status_class":"Unknown",
+         "status":"None",
+         "remarks":"None"
+      },
+      {
+         "serial_number":21,
+         "description":"New Laptop-2",
+         "completion_target":"None",
+         "status_class":"Unknown",
+         "status":"None",
+         "remarks":"None"
+      },
+      {
+         "serial_number":22,
+         "description":"Industrial Rack for Workesrs",
+         "completion_target":"None",
+         "status_class":"On Hold",
+         "status":"Will make in house. Same send material requirements Quotation.",
+         "remarks":"Not Required for our Colony Workers. Only ITI + Outsider Workers are required. Same Quotation arranged will send for approval. End of Sept-25."
+      }
+   ],
+   "roopangarh":[
+      {
+         "serial_number":1,
+         "description":"Fork lift Capacity -3.0 Ton Toyota",
+         "completion_target":"25.06.2025",
+         "status_class":"In Progress",
+         "status":"Diesel forklift RACE rejected. Electric & Diesel comparative send for approval",
+         "remarks":"MATERIAL SHIFTING AND WIRE ROD UNLOADING COSTS 600000 PER YEAR - 360000 (DRIVER + DIESEL)"
+      },
+      {
+         "serial_number":2,
+         "description":"Water Softening Plant - 2200 LPH & Water storage Tank - 100KL",
+         "completion_target":"Discuss with Abhishek",
+         "status_class":"In Progress",
+         "status":"Rs 10000 for tests charges received as recommended by Abhishek- Solar. Sample sent for testing.",
+         "remarks":"MACHINE WATER AND DRINKING WATER COSTS 50000 PER MONTH"
+      },
+      {
+         "serial_number":3,
+         "description":"Ashoka Plantation & Patil Green Works",
+         "completion_target":"31.07.2025",
+         "status_class":"Done",
+         "status":"50 Ashoka trees, plantation done",
+         "remarks":"PATIL GREENWORKS (CLEANER AIR)"
+      },
+      {
+         "serial_number":4,
+         "description":"Natural Air Ventilator installation",
+         "completion_target":"31.08.2025",
+         "status_class":"In Progress",
+         "status":"Quotation received- CS/PR/PO under process",
+         "remarks":"FOR AMBIENT AIR AT SHOPFLOOR"
+      },
+      {
+         "serial_number":5,
+         "description":"DSL based power connection in EOT",
+         "completion_target":"31.08.2025",
+         "status_class":"In Progress",
+         "status":"Quotation received- CS/PR/PO under process",
+         "remarks":"BUSBAR BASED WILL REDUCE BREAKDOWN OF EOT"
+      },
+      {
+         "serial_number":6,
+         "description":"New Washroom & renovation for Staff & Workers",
+         "completion_target":"31.08.2025",
+         "status_class":"In Progress",
+         "status":"Plumbing items list prepared, quotation under process",
+         "remarks":"FOR HYGIENE PURPOSE"
+      },
+      {
+         "serial_number":7,
+         "description":"DC Fan for all Electrical Panel",
+         "completion_target":"30.07.2025",
+         "status_class":"In Progress",
+         "status":"Quotation received- CS/PR/PO under process",
+         "remarks":"FOR COOLING INSIDE PANEL"
+      },
+      {
+         "serial_number":8,
+         "description":"Exhaust Fan for Shed",
+         "completion_target":"30.07.2025",
+         "status_class":"In Progress",
+         "status":"Quotation received- CS/PR/PO under process. Planned after rain",
+         "remarks":"FOR HEAT FLUSHING INSIDE SHED"
+      },
+      {
+         "serial_number":9,
+         "description":"New Lathe Machine-10 ft.",
+         "completion_target":"30.06.2025",
+         "status_class":"Done",
+         "status":"PO done. Inspection done. Waiting for readiness of machine",
+         "remarks":"OUTSIDE WORKSHOP COSTS 30000 PER MONTH"
+      },
+      {
+         "serial_number":10,
+         "description":"S R Pusher Arm",
+         "completion_target":"None",
+         "status_class":"In Progress",
+         "status":"To visit Jaipur for checking feasiblity.",
+         "remarks":"QUALITY IMPROVEMENT"
+      },
+      {
+         "serial_number":11,
+         "description":"Shop Floor & Building Repair works.",
+         "completion_target":"17.09.2025",
+         "status_class":"In Progress",
+         "status":"WD-4 installed. Floor drilling work started",
+         "remarks":"SAFETY & HYGIENE"
+      },
+      {
+         "serial_number":12,
+         "description":"SR Take Modification",
+         "completion_target":"None",
+         "status_class":"In Progress",
+         "status":"Results from Bokaro awaited",
+         "remarks":"AUTOMATION"
+      },
+      {
+         "serial_number":13,
+         "description":"WD Spooling ( Pneumatic Type )",
+         "completion_target":"None",
+         "status_class":"In Progress",
+         "status":"Results from Bokaro awaited",
+         "remarks":"AUTOMATION"
+      },
+      {
+         "serial_number":14,
+         "description":"NABL certified quality lab (certification, training, equipment temperature monitoring etc)",
+         "completion_target":"None",
+         "status_class":"In Progress",
+         "status":"Waiting for CHQ to proceed further",
+         "remarks":"QUALITY IMPROVEMENT"
+      },
+      {
+         "serial_number":15,
+         "description":"General maintenance (Good quality spares purchase)",
+         "completion_target":"None",
+         "status_class":"In Progress",
+         "status":"GOD switch installed. Insulator enquiry raised. Indenting pulley under process. WD-4 installed & cooling tower",
+         "remarks":"REDUCE BREAKDOWN & OEM LEVEL MACHINES"
+      },
+      {
+         "serial_number":16,
+         "description":"CME expenses",
+         "completion_target":"None",
+         "status_class":"In Progress",
+         "status":"All glass window repaired in shopfloor. Parking area completed. VCB, ACB, Transformer & RTC servicing planned",
+         "remarks":"SHOPFLOOR UPGRADATION WITH SAFETY & HYGENE Sep 25"
+      },
+      {
+         "serial_number":17,
+         "description":"Die shop equipments",
+         "completion_target":"None",
+         "status_class":"In Progress",
+         "status":"PO done. Inspection & delivery in 15 days",
+         "remarks":"FOR UPGRADATION OF DIE SHOP"
+      }
+   ]
+}
