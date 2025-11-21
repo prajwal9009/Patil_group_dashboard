@@ -63,13 +63,6 @@ export default function App() {
   const wcTotals = extractTotals(workingCapitalKPI);
   const revTotals = extractTotals(revenueKPI);
 
-  // KRA plantwise objects + key updates
-  const kraPlants = {
-    Bobilli: data.KRA_Bobilli ? data.KRA_Bobilli[0] : null,
-    Bokaro: data.KRA_Bokaro ? data.KRA_Bokaro[0] : null,
-    Roopangarh: data.KRA_Roopangarh ? data.KRA_Roopangarh[0] : null
-  };
-
   const keyUpdates = {
   Bobilli: data.Key_Updates_Bobilli,
   Bokaro: data.Key_Updates_Bokaro,
@@ -298,3 +291,4 @@ export default function App() {
     </div>
   );
 }
+
