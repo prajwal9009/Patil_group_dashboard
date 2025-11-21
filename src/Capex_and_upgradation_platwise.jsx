@@ -1,14 +1,14 @@
 import React, { useMemo, useState, useEffect } from "react";
 import capexData from "./capex_data.json"; 
 
-export default function CapexDashboard() {
-  const plantButtons = ["Bobilli", "Bokaro", "Roopangarh"];
-
-  const plantKeyMap = {
+const plantKeyMap = {
     Bobilli: "bobbili",
     Bokaro: "bokaro",
     Roopangarh: "roopangarh",
   };
+
+export default function CapexDashboard() {
+  const plantButtons = ["Bobilli", "Bokaro", "Roopangarh"];
 
   const [selectedPlant, setSelectedPlant] = useState(plantButtons[0]);
   const [allPlantsData, setAllPlantsData] = useState({});
